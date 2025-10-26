@@ -1,0 +1,28 @@
+[0.949s] Invoking command in '/home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/build --no-deps symlink_data
+[1.315s] running develop
+[1.586s] running egg_info
+[1.586s] creating k1_gemini_follower.egg-info
+[1.586s] writing k1_gemini_follower.egg-info/PKG-INFO
+[1.586s] writing dependency_links to k1_gemini_follower.egg-info/dependency_links.txt
+[1.586s] writing entry points to k1_gemini_follower.egg-info/entry_points.txt
+[1.586s] writing requirements to k1_gemini_follower.egg-info/requires.txt
+[1.586s] writing top-level names to k1_gemini_follower.egg-info/top_level.txt
+[1.587s] writing manifest file 'k1_gemini_follower.egg-info/SOURCES.txt'
+[1.588s] reading manifest file 'k1_gemini_follower.egg-info/SOURCES.txt'
+[1.589s] writing manifest file 'k1_gemini_follower.egg-info/SOURCES.txt'
+[1.591s] running build_ext
+[1.591s] Creating /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/lib/python3.10/site-packages/k1-gemini-follower.egg-link (link to .)
+[1.592s] Installing gemini_person_follower script to /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/lib/k1_gemini_follower
+[1.592s] 
+[1.592s] Installed /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower
+[1.592s] running symlink_data
+[1.592s] creating /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/ament_index
+[1.592s] creating /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/ament_index/resource_index
+[1.592s] creating /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/ament_index/resource_index/packages
+[1.592s] symbolically linking /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/resource/k1_gemini_follower -> /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/ament_index/resource_index/packages
+[1.592s] symbolically linking /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/package.xml -> /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/k1_gemini_follower
+[1.592s] creating /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/k1_gemini_follower/launch
+[1.593s] symbolically linking /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/launch/gemini_follower_launch.py -> /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/k1_gemini_follower/launch
+[1.593s] creating /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/k1_gemini_follower/config
+[1.593s] symbolically linking /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/config/gemini_follower_params.yaml -> /home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/share/k1_gemini_follower/config
+[1.624s] Invoked command in '/home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/het/ros2_ws/src/k1_gemini_follower/install/k1_gemini_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/het/ros2_ws/src/k1_gemini_follower/build/k1_gemini_follower/build --no-deps symlink_data

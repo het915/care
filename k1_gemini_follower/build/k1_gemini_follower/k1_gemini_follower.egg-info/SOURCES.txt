@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+config/gemini_follower_params.yaml
+k1_gemini_follower/__init__.py
+k1_gemini_follower/gemini_person_follower.py
+k1_gemini_follower.egg-info/PKG-INFO
+k1_gemini_follower.egg-info/SOURCES.txt
+k1_gemini_follower.egg-info/dependency_links.txt
+k1_gemini_follower.egg-info/entry_points.txt
+k1_gemini_follower.egg-info/requires.txt
+k1_gemini_follower.egg-info/top_level.txt
+k1_gemini_follower.egg-info/zip-safe
+launch/gemini_follower_launch.py
+resource/k1_gemini_follower

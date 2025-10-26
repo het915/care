@@ -1,0 +1,3 @@
+[console_scripts]
+gemini_person_follower = k1_gemini_follower.gemini_person_follower:main
+

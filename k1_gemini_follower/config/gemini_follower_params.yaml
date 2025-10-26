@@ -1,0 +1,29 @@
+gemini_person_follower:
+  ros__parameters:
+    # Gemini API Configuration
+    api_key: "AIzaSyDnpcOTRkPfB0zagID3uhieCUTcpBG8jmg"
+    
+    # Network Configuration
+    network_interface: "enxa0cec861c322"  # K1 robot network interface
+    
+    # SDK Configuration
+    use_booster_sdk: true  # Use Booster SDK for direct robot control
+    
+    # Camera Configuration
+    camera_topic: "/zed_real_robot/image_raw"  # ZED camera topic
+    
+    # Detection Parameters
+    detection_interval: 1.0  # Seconds between person detection
+    
+    # Movement Parameters
+    movement_speed: 0.3  # Forward/backward speed in m/s
+    rotation_speed: 0.5  # Rotation speed in rad/s
+    
+    # Person Tracking Parameters
+    min_person_size: 0.15  # Minimum person height in frame (0-1)
+    center_threshold: 0.1  # Threshold for considering person centered (0-1)
+    
+    # Safety Parameters
+    max_forward_speed: 0.5  # Maximum forward speed in m/s
+    max_rotation_speed: 1.0  # Maximum rotation speed in rad/s
+    safe_distance_threshold: 0.3  # Stop if person is too close (height in frame)
