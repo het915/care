@@ -1,0 +1,16 @@
+# K1 Camera Streamer Configuration
+
+k1_camera_streamer:
+  ros__parameters:
+    # Camera topic to subscribe to
+    camera_topic: "/camera/image_raw"
+    
+    # HTTP streaming settings
+    stream_host: "0.0.0.0"  # Listen on all interfaces
+    stream_port: 5000
+    
+    # Video quality settings
+    jpeg_quality: 80  # 1-100, higher is better quality but larger file size
+    
+    # Optional: Frame rate limiting (not implemented yet)
+    # max_fps: 30
