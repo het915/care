@@ -1,0 +1,8 @@
+- !<MediaPickerTexture/4adcc2d5-f20f-437f-bf3a-5532509efc36>
+  PackagePath: ""
+  ShowOnStart: true
+  ImageMode: All
+  VideoMode: All
+  CropToFace: true
+  Scale: {x: 1.000000, y: 1.000000}
+  FaceRegion: HeadCenter
